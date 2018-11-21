@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hrghauri/SimpleApp/issues"
   },
-  "homepage": "https://github.com/hrghauri/SimpleApp#readme"
+  "homepage": "https://github.com/hrghauri/SimpleApp#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
